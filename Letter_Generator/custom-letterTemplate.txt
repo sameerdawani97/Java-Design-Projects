@@ -1,0 +1,8 @@
+Hi [[first_name]] [[last_name]],
+
+This is to inform you that we are going to picnic. Kindly check your portal to register for event.
+
+Thank you
+Sincerely,
+Sameer Dawani
+
